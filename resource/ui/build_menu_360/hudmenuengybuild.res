@@ -254,9 +254,10 @@
 	
 	"BuildHintIcon"
 	{
-		"ControlName"	"CSCHintIcon"
+		"ControlName"	"CExLabel"
 		"fieldName"		"BuildHintIcon"
-		"xpos"			"2"			// align me to the left edge of the first selection
+		"font"			"GameUIButtons"
+		"xpos"			"5"			// align me to the left edge of the first selection
 		"ypos"			"38"
 		"zpos"			"1"
 		"wide"			"22"
@@ -265,6 +266,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"labelText"		"1"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -315,9 +317,10 @@
 	
 	"DestroyHintIcon"
 	{
-		"ControlName"	"CSCHintIcon"
+		"ControlName"	"CExLabel"
 		"fieldName"		"DestroyHintIcon"
-		"xpos"			"72"			// align me to the left edge of the first selection
+		"font"			"GameUIButtons"
+		"xpos"			"75"			// align me to the left edge of the first selection
 		"ypos"			"38"
 		"zpos"			"1"
 		"wide"			"22"
@@ -326,6 +329,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"labelText"		"0"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -376,9 +380,10 @@
 	
 	"CancelHintIcon"
 	{
-		"ControlName"	"CSCHintIcon"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CancelHintIcon"
-		"xpos"			"24"			// align me to the left edge of the first selection
+		"font"			"GameUIButtons"
+		"xpos"			"98"			// align me to the left edge of the first selection
 		"ypos"			"136"
 		"zpos"			"1"
 		"wide"			"22"
@@ -387,6 +392,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"labelText"		"B"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
