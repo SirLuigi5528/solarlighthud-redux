@@ -40,8 +40,9 @@
 	
 	"TeamToggleHintIcon"
 	{
-		"ControlName"	"CSCHintIcon"
+		"ControlName"	"CExLabel"
 		"fieldName"		"TeamToggleHintIcon"
+		"font"			"GameUIButtons"
 		"xpos"			"4"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -51,6 +52,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"labelText"		"Y"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_toggle_function"
 	}
@@ -77,8 +79,9 @@
 	
 	"CancelHintIcon"
 	{
-		"ControlName"	"CSCHintIcon"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CancelHintIcon"
+		"font"			"GameUIButtons"
 		"xpos"			"131"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -88,6 +91,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"labelText"		"B"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_cancel"
 	}
@@ -114,8 +118,9 @@
 	
 	"DisguiseHintIcon"
 	{
-		"ControlName"	"CSCHintIcon"
+		"ControlName"	"CExLabel"
 		"fieldName"		"DisguiseHintIcon"
+		"font"			"GameUIButtons"
 		"xpos"			"275"
 		"ypos"			"136"
 		"zpos"			"1"
@@ -125,6 +130,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"labelText"		"A"
 		"actionSet"		"InGameHUDControls"
 		"actionName"	"menu_select"
 	}
